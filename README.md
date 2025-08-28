@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/19a77f30-2928-4915-9354-5fa499fbc2c2" />
 
 <!--
 **Brayan0campo/Brayan0campo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
